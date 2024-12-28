@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/SEU_USUARIO/mundo-gramado.git
+git branch -M main
+git add .
+git commit -m "Primeiro upload do site"
+git push -u origin main
